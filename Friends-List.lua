@@ -461,4 +461,5 @@ local list9A4  = {
 --[[
 --// Update Logs \\--
 <[+] 9/10 > : Create and write
+承受這一切衝擊的那個人
 ]]--
